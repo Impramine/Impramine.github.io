@@ -3,32 +3,32 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>http://localhost:1313/work/</loc>
+    <loc>https://impramine.github.io/work/</loc>
     <lastmod>2021-01-16T17:54:55+05:00</lastmod>
   </url>
   
   <url>
-    <loc>http://localhost:1313/materials/</loc>
+    <loc>https://impramine.github.io/materials/</loc>
     <lastmod>2021-01-16T15:28:24+05:00</lastmod>
   </url>
   
   <url>
-    <loc>http://localhost:1313/references/</loc>
+    <loc>https://impramine.github.io/references/</loc>
     <lastmod>2021-01-09T22:32:09+05:00</lastmod>
   </url>
   
   <url>
-    <loc>http://localhost:1313/sotrudniki/</loc>
+    <loc>https://impramine.github.io/sotrudniki/</loc>
     <lastmod>2021-01-09T21:18:31+05:00</lastmod>
   </url>
   
   <url>
-    <loc>http://localhost:1313/about/</loc>
+    <loc>https://impramine.github.io/about/</loc>
     <lastmod>2021-01-08T17:41:43+05:00</lastmod>
   </url>
   
   <url>
-    <loc>http://localhost:1313/</loc>
+    <loc>https://impramine.github.io/</loc>
   </url>
   
 </urlset>
