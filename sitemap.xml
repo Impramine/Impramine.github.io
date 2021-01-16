@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>http://localhost:1313/work/</loc>
+    <lastmod>2021-01-16T17:54:55+05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/materials/</loc>
+    <lastmod>2021-01-16T15:28:24+05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/references/</loc>
+    <lastmod>2021-01-09T22:32:09+05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/sotrudniki/</loc>
+    <lastmod>2021-01-09T21:18:31+05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/about/</loc>
+    <lastmod>2021-01-08T17:41:43+05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/</loc>
+  </url>
+  
+</urlset>
